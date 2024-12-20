@@ -1,0 +1,20 @@
+{
+  "name": "IncredibleGad",
+  "short_name": "IncredibleGad",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#6200e",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhJOqSWm8CYEzvshvBPrzO0ptoCDxDudH_3SRX6QgNA8ErkCwj8MqzIOvI0VvDlw6Re_5beEQN86p_sxtAxyf-HEZCbe77CuLC0g6i0-AI64REeXBKxFqCcJAe-4VSkUJ6CvIhNlbBr4DyDZsWPUs6phzbNV6TwXZC-243U3mwBJdIYD_RzfG46Yp-IW7nT=s500",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhJOqSWm8CYEzvshvBPrzO0ptoCDxDudH_3SRX6QgNA8ErkCwj8MqzIOvI0VvDlw6Re_5beEQN86p_sxtAxyf-HEZCbe77CuLC0g6i0-AI64REeXBKxFqCcJAe-4VSkUJ6CvIhNlbBr4DyDZsWPUs6phzbNV6TwXZC-243U3mwBJdIYD_RzfG46Yp-IW7nT=s500",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
