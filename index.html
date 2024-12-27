@@ -39,7 +39,6 @@
     .json-icon { background-color: #000; color: #fff; }
     .css-icon { background-color: #000; color: #fff; }
     .btn {background-color: #ff5400;border:none;}
-    .text-primary {color:#ff5400;}
     /* Dark mode styles */
     @media (prefers-color-scheme: dark) {
       .file-name { color: #fff; }
@@ -63,6 +62,7 @@
     footer { text-align: center; margin-top: 50px; position: fixed; bottom: 0; width: 100%; padding: 20px 0; z-index: 100; }
     /* Loader styles */
     #loader { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+    .spinner-orange {color:#ff5400}
   </style>
 </head>
 
@@ -70,7 +70,7 @@
 
   <!-- Loading Spinner -->
   <div id="loader">
-    <div class="spinner-border text-primary" role="status">
+    <div class="spinner-border spinner-orange" role="status">
       <span class="visually-hidden">Loading...</span>
     </div>
   </div>
