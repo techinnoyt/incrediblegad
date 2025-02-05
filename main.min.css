@@ -47,7 +47,7 @@ a,input,textarea,button{transition:all .0s ease}
 .excerpt{font-family:var(--text-font);font-size:0.875rem;color:var(--summary-color);line-height:1.25rem}
 .cs .entry-inner{display:block;position:relative;width:100%;height:100%;overflow:hidden;z-index:10;box-shadow:var(--shadow);border-radius:var(--radius)}
 .cs .entry-thumbnail{width:100%;height:100%}
-.cs .entry-thumbnail:before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(0deg,#1e293b 0%,#1e293b 1a 100%);-webkit-backface-visibility:hidden;backface-visibility:hidden;z-index:2;opacity:.5;transition:opacity .25s ease}
+.cs .entry-thumbnail:before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(0deg,#1e293b 0%,#1e293b1a 100%);-webkit-backface-visibility:hidden;backface-visibility:hidden;z-index:2;opacity:.5;transition:opacity .25s ease}
 .cs .yt-img:after{top:1.5rem;right:1.5rem;transform:translate(0)}
 .rtl .cs .yt-img:after{left:1.5rem;right:unset}
 .cs .entry-header{position:absolute;left:0;bottom:0;width:100%;background:linear-gradient(0deg,#1e293b a6 0%,#1e293b 00 100%);overflow:hidden;text-shadow:0 1px 2px rgba(0,0,0,.1);z-index:10;padding:1.5rem;gap:0.5rem}
